@@ -1,0 +1,11 @@
+﻿global using Microsoft.EntityFrameworkCore;
+global using System.ComponentModel.DataAnnotations;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.AspNetCore.Mvc.Rendering;
+global using Microsoft.EntityFrameworkCore.Metadata.Internal;
+global using Game4u.Services;
+global using Game4u.Models;
+global using Game4u.ViewModels;
+global using Game4u.Data;
+global using Game4u.Settings;
+global using Game4u.Attributes;
